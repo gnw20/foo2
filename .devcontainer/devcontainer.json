@@ -2,7 +2,8 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/miniconda
 {
 	"name": "Miniconda (Python 3)",
-        "image": "docker.io/dolfinx/lab:v0.6.0",
+//         "image": "docker.io/dolfinx/lab:v0.6.0",
+        "image": "docker.io/dolfinx/dolfinx:v0.6.0",
 // 	"build": {
 // 		"context": "..",
 // 		"dockerfile": "Dockerfile"
